@@ -9,7 +9,7 @@ npm i @kevinhellos/jscow
 ## Usage
 ```js
 // Sample usage
-const { validate } = require("@kevinhellos/jscow");
+const validate = require("@kevinhellos/jscow");
 
 // Create a target
 var username = "@bob1234";

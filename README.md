@@ -43,4 +43,3 @@ Below are the available properties to pass into the model validation object
 | maxValue          | number  | Define the maximum value for a number              |
 | specialCharacters | boolean | Define if special characters are allowed           |
 | isEmail           | boolean | Define if it should follows an email regex format  |
-|                   |         |                                                    |

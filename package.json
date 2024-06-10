@@ -1,0 +1,15 @@
+{
+  "name": "@kevinhellos/jscow",
+  "version": "1.0.0",
+  "description": "Lightweight model based validation library for Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "validation",
+    "javascript"
+  ],
+  "author": "kevinhellos",
+  "license": "ISC"
+}

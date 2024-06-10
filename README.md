@@ -31,3 +31,17 @@ else {
     console.log("Username is invalid");
 }
 ```
+
+## API
+Below are the available properties to pass into the model validation object
+| Property          | Type    | Description                                        |   |   |   |   |   |   |   |
+|-------------------|---------|----------------------------------------------------|---|---|---|---|---|---|---|
+| required          | boolean | Defines if the current variable is required or not |   |   |   |   |   |   |   |
+| minLength         | number  | Define the minimum length for a string             |   |   |   |   |   |   |   |
+| maxLength         | number  | Define the maximum length for a string             |   |   |   |   |   |   |   |
+| minValue          | number  | Define the minimum value for a number              |   |   |   |   |   |   |   |
+| maxValue          | number  | Define the maximum value for a number              |   |   |   |   |   |   |   |
+| specialCharacters | boolean | Define if special characters are allowed           |   |   |   |   |   |   |   |
+| isEmail           | boolean | Define if it should follows an email regex format  |   |   |   |   |   |   |   |
+|                   |         |                                                    |   |   |   |   |   |   |   |
+|                   |         |                                                    |   |   |   |   |   |   |   |
